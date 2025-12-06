@@ -1,0 +1,115 @@
+{
+    "SessionStartTime": "2025-11-21 09:54:35",
+    "Rounds": [
+        {
+            "GestureName": "1grabbing",
+            "FinalScore": 61.849998474121097,
+            "FinishScore": 61,
+            "ReferenceScore": 19,
+            "RuleScore": 100,
+            "TimeTaken": 5.639999866485596,
+            "mode": 1,
+            "NextDifficulty": 2
+        },
+        {
+            "GestureName": "1fist",
+            "FinalScore": 68.1500015258789,
+            "FinishScore": 81,
+            "ReferenceScore": 0,
+            "RuleScore": 75,
+            "TimeTaken": 3.559999942779541,
+            "mode": 0,
+            "NextDifficulty": 2
+        },
+        {
+            "GestureName": "2dislike",
+            "FinalScore": 61.939998626708987,
+            "FinishScore": 61,
+            "ReferenceScore": 0,
+            "RuleScore": 75,
+            "TimeTaken": 3.119999885559082,
+            "mode": 0,
+            "NextDifficulty": 3
+        },
+        {
+            "GestureName": "3peace",
+            "FinalScore": 72.23999786376953,
+            "FinishScore": 72,
+            "ReferenceScore": 17,
+            "RuleScore": 100,
+            "TimeTaken": 1.6399999856948853,
+            "mode": 0,
+            "NextDifficulty": 4
+        },
+        {
+            "GestureName": "4three",
+            "FinalScore": 51.40999984741211,
+            "FinishScore": 72,
+            "ReferenceScore": 38,
+            "RuleScore": 100,
+            "TimeTaken": 6.849999904632568,
+            "mode": 0,
+            "NextDifficulty": 3
+        },
+        {
+            "GestureName": "5call",
+            "FinalScore": 53.959999084472659,
+            "FinishScore": 70,
+            "ReferenceScore": 0,
+            "RuleScore": 99,
+            "TimeTaken": 8.510000228881836,
+            "mode": 1,
+            "NextDifficulty": 4
+        },
+        {
+            "GestureName": "5rock",
+            "FinalScore": 74.72000122070313,
+            "FinishScore": 75,
+            "ReferenceScore": 0,
+            "RuleScore": 0,
+            "TimeTaken": 1.3200000524520875,
+            "mode": 0,
+            "NextDifficulty": 5
+        },
+        {
+            "GestureName": "5ok",
+            "FinalScore": 10.0,
+            "FinishScore": 0,
+            "ReferenceScore": 0,
+            "RuleScore": 0,
+            "TimeTaken": 10.0,
+            "mode": 0,
+            "NextDifficulty": 5
+        },
+        {
+            "GestureName": "4palm",
+            "FinalScore": 10.0,
+            "FinishScore": 0,
+            "ReferenceScore": 0,
+            "RuleScore": 0,
+            "TimeTaken": 10.0,
+            "mode": 0,
+            "NextDifficulty": 4
+        },
+        {
+            "GestureName": "3peace",
+            "FinalScore": 10.0,
+            "FinishScore": 0,
+            "ReferenceScore": 0,
+            "RuleScore": 100,
+            "TimeTaken": 10.0,
+            "mode": 0,
+            "NextDifficulty": 2
+        },
+        {
+            "GestureName": "2dislike",
+            "FinalScore": 52.58000183105469,
+            "FinishScore": 68,
+            "ReferenceScore": 0,
+            "RuleScore": 75,
+            "TimeTaken": 6.150000095367432,
+            "mode": 0,
+            "NextDifficulty": 2
+        }
+    ]
+}

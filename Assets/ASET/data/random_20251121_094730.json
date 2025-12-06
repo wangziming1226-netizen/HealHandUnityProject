@@ -1,0 +1,25 @@
+{
+    "SessionStartTime": "2025-11-21 09:47:30",
+    "Rounds": [
+        {
+            "GestureName": "1grabbing",
+            "FinalScore": 77.8499984741211,
+            "FinishScore": 76,
+            "ReferenceScore": 32,
+            "RuleScore": 100,
+            "TimeTaken": 3.140000104904175,
+            "mode": 1,
+            "NextDifficulty": 2
+        },
+        {
+            "GestureName": "2like",
+            "FinalScore": 10.0,
+            "FinishScore": 0,
+            "ReferenceScore": 0,
+            "RuleScore": 50,
+            "TimeTaken": 10.0,
+            "mode": 0,
+            "NextDifficulty": 2
+        }
+    ]
+}

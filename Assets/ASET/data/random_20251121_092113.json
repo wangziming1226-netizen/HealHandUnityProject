@@ -1,0 +1,15 @@
+{
+    "SessionStartTime": "2025-11-21 09:21:13",
+    "Rounds": [
+        {
+            "GestureName": "1grabbing",
+            "FinalScore": 20.0,
+            "FinishScore": 0,
+            "ReferenceScore": 0,
+            "RuleScore": 0,
+            "TimeTaken": 10.0,
+            "mode": 1,
+            "NextDifficulty": 1
+        }
+    ]
+}

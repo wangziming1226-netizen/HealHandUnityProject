@@ -1,0 +1,55 @@
+{
+    "SessionStartTime": "2025-11-21 09:23:28",
+    "Rounds": [
+        {
+            "GestureName": "1fist",
+            "FinalScore": 20.0,
+            "FinishScore": 0,
+            "ReferenceScore": 0,
+            "RuleScore": 0,
+            "TimeTaken": 10.0,
+            "mode": 1,
+            "NextDifficulty": 1
+        },
+        {
+            "GestureName": "1fist",
+            "FinalScore": 10.0,
+            "FinishScore": 0,
+            "ReferenceScore": 0,
+            "RuleScore": 50,
+            "TimeTaken": 10.0,
+            "mode": 0,
+            "NextDifficulty": 1
+        },
+        {
+            "GestureName": "1fist",
+            "FinalScore": 10.0,
+            "FinishScore": 0,
+            "ReferenceScore": 0,
+            "RuleScore": 75,
+            "TimeTaken": 10.0,
+            "mode": 0,
+            "NextDifficulty": 1
+        },
+        {
+            "GestureName": "1grabbing",
+            "FinalScore": 39.68000030517578,
+            "FinishScore": 63,
+            "ReferenceScore": 40,
+            "RuleScore": 25,
+            "TimeTaken": 8.880000114440918,
+            "mode": 0,
+            "NextDifficulty": 1
+        },
+        {
+            "GestureName": "1fist",
+            "FinalScore": 56.34000015258789,
+            "FinishScore": 70,
+            "ReferenceScore": 15,
+            "RuleScore": 100,
+            "TimeTaken": 5.420000076293945,
+            "mode": 0,
+            "NextDifficulty": 1
+        }
+    ]
+}

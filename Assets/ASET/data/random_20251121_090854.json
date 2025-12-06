@@ -1,0 +1,85 @@
+{
+    "SessionStartTime": "2025-11-21 09:08:54",
+    "Rounds": [
+        {
+            "GestureName": "1grabbing",
+            "FinalScore": 0.724997341632843,
+            "FinishScore": 72,
+            "ReferenceScore": 38,
+            "RuleScore": 75,
+            "TimeTaken": 2.0999999046325685,
+            "mode": 1,
+            "NextDifficulty": 2
+        },
+        {
+            "GestureName": "2like",
+            "FinalScore": 0.691942036151886,
+            "FinishScore": 84,
+            "ReferenceScore": 0,
+            "RuleScore": 50,
+            "TimeTaken": 1.4700000286102296,
+            "mode": 0,
+            "NextDifficulty": 3
+        },
+        {
+            "GestureName": "3one",
+            "FinalScore": 0.6547257304191589,
+            "FinishScore": 77,
+            "ReferenceScore": 39,
+            "RuleScore": 100,
+            "TimeTaken": 1.7799999713897706,
+            "mode": 0,
+            "NextDifficulty": 4
+        },
+        {
+            "GestureName": "4palm",
+            "FinalScore": 0.7339228987693787,
+            "FinishScore": 90,
+            "ReferenceScore": 39,
+            "RuleScore": 100,
+            "TimeTaken": 0.8700000047683716,
+            "mode": 0,
+            "NextDifficulty": 5
+        },
+        {
+            "GestureName": "5rock",
+            "FinalScore": 0.6798726916313171,
+            "FinishScore": 77,
+            "ReferenceScore": 53,
+            "RuleScore": 100,
+            "TimeTaken": 0.9399999976158142,
+            "mode": 0,
+            "NextDifficulty": 5
+        },
+        {
+            "GestureName": "5rock",
+            "FinalScore": 0.5806682705879211,
+            "FinishScore": 69,
+            "ReferenceScore": 34,
+            "RuleScore": 100,
+            "TimeTaken": 6.510000228881836,
+            "mode": 1,
+            "NextDifficulty": 5
+        },
+        {
+            "GestureName": "5ok",
+            "FinalScore": 0.10000000149011612,
+            "FinishScore": 0,
+            "ReferenceScore": 0,
+            "RuleScore": 0,
+            "TimeTaken": 10.0,
+            "mode": 0,
+            "NextDifficulty": 4
+        },
+        {
+            "GestureName": "4three",
+            "FinalScore": 0.640752911567688,
+            "FinishScore": 83,
+            "ReferenceScore": 54,
+            "RuleScore": 100,
+            "TimeTaken": 3.0399999618530275,
+            "mode": 0,
+            "NextDifficulty": 5
+        }
+    ]
+}

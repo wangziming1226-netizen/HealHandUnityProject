@@ -1,0 +1,85 @@
+{
+    "SessionStartTime": "2025-11-27 21:01:58",
+    "Rounds": [
+        {
+            "GestureName": "1grabbing",
+            "FinalScore": 82.27999877929688,
+            "FinishScore": 80,
+            "ReferenceScore": 52,
+            "RuleScore": 100,
+            "TimeTaken": 2.430000066757202,
+            "mode": 1,
+            "NextDifficulty": 3
+        },
+        {
+            "GestureName": "2like",
+            "FinalScore": 83.62999725341797,
+            "FinishScore": 91,
+            "ReferenceScore": 73,
+            "RuleScore": 100,
+            "TimeTaken": 0.6899999976158142,
+            "mode": 0,
+            "NextDifficulty": 4
+        },
+        {
+            "GestureName": "4stop",
+            "FinalScore": 80.2300033569336,
+            "FinishScore": 80,
+            "ReferenceScore": 1,
+            "RuleScore": 100,
+            "TimeTaken": 0.4399999976158142,
+            "mode": 0,
+            "NextDifficulty": 5
+        },
+        {
+            "GestureName": "5Fingers crossed",
+            "FinalScore": 72.77999877929688,
+            "FinishScore": 66,
+            "ReferenceScore": 72,
+            "RuleScore": 60,
+            "TimeTaken": 0.8999999761581421,
+            "mode": 0,
+            "NextDifficulty": 5
+        },
+        {
+            "GestureName": "5Fingers crossed",
+            "FinalScore": 66.06999969482422,
+            "FinishScore": 68,
+            "ReferenceScore": 61,
+            "RuleScore": 60,
+            "TimeTaken": 2.7799999713897707,
+            "mode": 0,
+            "NextDifficulty": 5
+        },
+        {
+            "GestureName": "5rock",
+            "FinalScore": 57.349998474121097,
+            "FinishScore": 68,
+            "ReferenceScore": 19,
+            "RuleScore": 100,
+            "TimeTaken": 2.4600000381469728,
+            "mode": 2,
+            "NextDifficulty": 3
+        },
+        {
+            "GestureName": "3point",
+            "FinalScore": 10.0,
+            "FinishScore": 0,
+            "ReferenceScore": 0,
+            "RuleScore": 45,
+            "TimeTaken": 10.0,
+            "mode": 0,
+            "NextDifficulty": 2
+        },
+        {
+            "GestureName": "2like",
+            "FinalScore": 81.76000213623047,
+            "FinishScore": 89,
+            "ReferenceScore": 33,
+            "RuleScore": 100,
+            "TimeTaken": 0.9599999785423279,
+            "mode": 0,
+            "NextDifficulty": 4
+        }
+    ]
+}

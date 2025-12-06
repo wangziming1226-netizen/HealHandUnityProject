@@ -1,0 +1,55 @@
+{
+    "SessionStartTime": "2025-11-27 20:33:24",
+    "Rounds": [
+        {
+            "GestureName": "1fist",
+            "FinalScore": 93.55999755859375,
+            "FinishScore": 87,
+            "ReferenceScore": 72,
+            "RuleScore": 100,
+            "TimeTaken": 0.3100000023841858,
+            "mode": 1,
+            "NextDifficulty": 3
+        },
+        {
+            "GestureName": "3point",
+            "FinalScore": 46.849998474121097,
+            "FinishScore": 62,
+            "ReferenceScore": 58,
+            "RuleScore": 45,
+            "TimeTaken": 6.989999771118164,
+            "mode": 0,
+            "NextDifficulty": 3
+        },
+        {
+            "GestureName": "2like",
+            "FinalScore": 80.16999816894531,
+            "FinishScore": 90,
+            "ReferenceScore": 55,
+            "RuleScore": 100,
+            "TimeTaken": 1.4600000381469727,
+            "mode": 0,
+            "NextDifficulty": 4
+        },
+        {
+            "GestureName": "4three",
+            "FinalScore": 79.69999694824219,
+            "FinishScore": 82,
+            "ReferenceScore": 63,
+            "RuleScore": 100,
+            "TimeTaken": 0.7799999713897705,
+            "mode": 0,
+            "NextDifficulty": 5
+        },
+        {
+            "GestureName": "5rock",
+            "FinalScore": 82.31999969482422,
+            "FinishScore": 81,
+            "ReferenceScore": 56,
+            "RuleScore": 100,
+            "TimeTaken": 0.019999999552965165,
+            "mode": 0,
+            "NextDifficulty": 5
+        }
+    ]
+}

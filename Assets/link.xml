@@ -1,0 +1,13 @@
+<linker>
+  <!-- 保留你的项目脚本，避免被 iOS 裁剪 -->
+  <assembly fullname="Assembly-CSharp">
+    <type fullname="CameraBootstrap" preserve="all"/>
+    <type fullname="GlobalCameraToMediapipe" preserve="all"/>
+    <type fullname="QRScanner" preserve="all"/>
+  </assembly>
+
+  <!-- 保留 Mediapipe 相关程序集，防止反射失效 -->
+  <assembly fullname="Mediapipe.Runtime" preserve="all"/>
+  <assembly fullname="Mediapipe.Tasks" preserve="all"/>
+  <assembly fullname="Mediapipe.Unity" preserve="all"/>
+</linker>

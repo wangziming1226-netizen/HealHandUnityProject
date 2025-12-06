@@ -1,0 +1,25 @@
+{
+    "SessionStartTime": "2025-11-21 09:20:45",
+    "Rounds": [
+        {
+            "GestureName": "1fist",
+            "FinalScore": 74.47000122070313,
+            "FinishScore": 70,
+            "ReferenceScore": 33,
+            "RuleScore": 100,
+            "TimeTaken": 3.380000114440918,
+            "mode": 1,
+            "NextDifficulty": 2
+        },
+        {
+            "GestureName": "2like",
+            "FinalScore": 77.87999725341797,
+            "FinishScore": 87,
+            "ReferenceScore": 62,
+            "RuleScore": 100,
+            "TimeTaken": 1.7300000190734864,
+            "mode": 0,
+            "NextDifficulty": 3
+        }
+    ]
+}
