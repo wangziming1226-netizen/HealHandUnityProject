@@ -52,3 +52,53 @@ Select iOS, click Switch Platform
 Add the main scene to Scenes In Build
 
 Click Build, then open the generated Xcode project and deploy to an iPad
+
+
+---
+
+## Features
+
+- Touchless interaction using MediaPipe Hands (no touch input needed during training).
+- Two training modes: Card Mode (structured QR-card workflow) and Random Mode (adaptive randomised tasks).
+- Basic logging of gesture attempts (success/fail, score, time) for later analysis.
+- Privacy-aware design: focus on hand region, prepared for background blur / anonymised visualisation.
+
+
+
+---
+
+## Controls / 操作说明
+
+- **Card Mode**
+  - Hold a QR training card in front of the iPad camera to select a task.  
+  - Follow the on-screen skeleton guide and hold the gesture until the progress bar is full.
+
+- **Random Mode**
+  - The system automatically shows the next gesture on screen.  
+  - Copy the pose with your hand; if it is too hard, simply wait for the next one.
+
+- **Common**
+  - Make sure your hand is inside the camera area.
+  - Keep enough light so that the camera can see your fingers clearly.
+
+
+---
+
+## Project Structure
+
+- `Assets/_MyGameScenes` – main scenes (e.g. `main`)
+- `Assets/_Script` – core C# scripts (modes, gesture logic, managers)
+- `Assets/_MyGameSprites` – card images and UI sprites
+- `Assets/record` – training history / log related assets
+- `docs` – screenshots and (optional) report PDF
+
+
+---
+
+
+## Known Issues / Limitations
+
+- Works best under stable lighting; extreme backlight or very dark environments reduce recognition accuracy.
+- Only 2D hand landmarks are used, so depth-dependent gestures are harder to distinguish.
+- Current prototype focuses on single-user, single-hand scenarios.
+
